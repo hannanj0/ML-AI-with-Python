@@ -50,7 +50,6 @@ print("The change in estimated cost for being male instead of female is " +
 
 sex = 0
 
-# Extra Practice
 # Smoker vs. Non Smoker
 smoker = 1
 
